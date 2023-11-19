@@ -92,7 +92,7 @@
     "jest-expo": "49.0.0",
     "patch-package": "6.5.1",
     "postinstall-prepare": "1.0.1",
-    "prettier": "2.8.8",
+    "prettier": "3.1.0",
     "react-test-renderer": "18.2.0",
     "reactotron-core-client": "2.8.11-beta.16",
     "reactotron-mst": "3.1.5-beta.16",
