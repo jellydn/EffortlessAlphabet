@@ -72,6 +72,7 @@
 		"experiments": {
 			"tsconfigPaths": true
 		},
+		"owner": "dunghd",
 		"extra": {
 			"eas": {
 				"projectId": "7202dbe0-ffb1-4e7f-8d82-eef14ef5d1c5"
