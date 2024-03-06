@@ -74,7 +74,7 @@
     "@babel/runtime": "7.24.0",
     "@types/i18n-js": "3.8.9",
     "@types/jest": "29.5.12",
-    "@types/react": "18.2.63",
+    "@types/react": "18.2.64",
     "@types/react-test-renderer": "18.0.7",
     "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.21.0",
@@ -101,7 +101,7 @@
     "regenerator-runtime": "0.14.1",
     "ts-jest": "29.1.2",
     "ts-node": "10.9.2",
-    "typescript": "5.3.3"
+    "typescript": "5.4.2"
   },
   "expo": {
     "install": {
