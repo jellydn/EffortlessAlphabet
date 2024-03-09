@@ -50,7 +50,7 @@
     "expo-updates": "0.24.11",
     "i18n-js": "4.4.3",
     "mobx": "6.12.0",
-    "mobx-react-lite": "4.0.5",
+    "mobx-react-lite": "4.0.6",
     "mobx-state-tree": "5.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
