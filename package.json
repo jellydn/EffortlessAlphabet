@@ -99,7 +99,7 @@
     "reactotron-react-js": "3.3.14",
     "reactotron-react-native": "5.1.7",
     "regenerator-runtime": "0.14.1",
-    "ts-jest": "29.2.0",
+    "ts-jest": "29.2.1",
     "ts-node": "10.9.2",
     "typescript": "5.5.3"
   },
