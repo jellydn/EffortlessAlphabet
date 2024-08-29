@@ -71,7 +71,7 @@
     "@babel/plugin-transform-shorthand-properties": "7.24.7",
     "@babel/plugin-transform-template-literals": "7.24.7",
     "@babel/preset-env": "7.25.4",
-    "@babel/runtime": "7.25.4",
+    "@babel/runtime": "7.25.6",
     "@types/i18n-js": "3.8.9",
     "@types/jest": "29.5.12",
     "@types/react": "18.3.4",
