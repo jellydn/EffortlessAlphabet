@@ -74,7 +74,7 @@
     "@babel/runtime": "7.25.6",
     "@types/i18n-js": "3.8.9",
     "@types/jest": "29.5.13",
-    "@types/react": "18.3.8",
+    "@types/react": "18.3.9",
     "@types/react-test-renderer": "18.3.0",
     "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.21.0",
