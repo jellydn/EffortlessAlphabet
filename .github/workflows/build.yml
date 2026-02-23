@@ -10,7 +10,7 @@ jobs:
         uses: styfle/cancel-workflow-action@0.12.1
 
       - name: 🏗 Setup repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: 🏗 Setup Node
         uses: actions/setup-node@v4
