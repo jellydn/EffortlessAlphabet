@@ -11,12 +11,12 @@ jobs:
         uses: styfle/cancel-workflow-action@0.12.1
 
       - name: 🏗 Setup repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.4.0
 
       - name: 🏗 Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4.4.0
         with:
-          node-version: 18.x
+          node-version: 18.20.8
 
       - name: 📥 Install bun
         run: npm install -g bun
